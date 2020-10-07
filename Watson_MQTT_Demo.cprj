@@ -3,7 +3,8 @@
   <created timestamp="2020-09-30T17:26:48" tool="cbuildgen 0.9.1-precommit+799"/>
 
   <info isLayer="false">
-    <description>Watson MQTT Demo</description>
+     <name>Watson MQTT Demo</name>
+     <description>This demo application connects to Watson IoT through MQTT and publishes messages.</description>
     <category>Board, Cloud, Example, IoT, MQTT, RTOS, Socket, Watson</category>
     <license>Apache 2.0, BSD 3-Clause, EPL 1.0</license>
   </info>
